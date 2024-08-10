@@ -1,5 +1,5 @@
 # User-Register
-Basic quiz, made using Scratch, with blockly programming (JavaScript).<br>
+Basic user register system, made using Scratch, with blockly programming (JavaScript).<br>
 Simple project to learn more about loops.<br><br>
 Made to apply in programming classes.<br><br>
 
