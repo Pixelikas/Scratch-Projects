@@ -1,2 +1,2 @@
 # Scratch-Projects
-Projects made using Scratch plataform with blockly programming.
+Projects made using Scratch plataform with blockly programming.<br><br>
